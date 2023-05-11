@@ -3,8 +3,16 @@
     box-sizing: border-box;
 }
 
+ol,
+ul,
+li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
 body {
-    background-color: #f6f8fc;
+    background-color: #F6F8FC;
 }
 
 .content {
